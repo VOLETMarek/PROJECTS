@@ -2,6 +2,8 @@
 
 Main goal : create the foundation of a travel website and practice <strong>JavaScript</strong>.
 
+You can visit the website <a href='https://trip-time.vercel.app/'> here </a> ✈️
+
 ## Table of contents
 
 - [The challenge](#the-challenge)
