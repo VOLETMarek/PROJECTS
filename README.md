@@ -10,7 +10,7 @@ The repository is organized as follows :
 
 - `blog-website`: HTML/Bootstrap
 - `cat-website`: HTML/CSS
-- `github-api`: HTML/SASS/React
+- `github-repos`: HTML/SASS/React
 - `how-much`: HTML/SASS/React
 - `poke-life`: HTML/CSS/PHP/MySQL
 - `recipe-wireframes`: Whimsical
