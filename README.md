@@ -15,6 +15,7 @@ The repository is organized as follows :
 - `poke-life`: HTML/CSS/PHP/MySQL
 - `recipe-wireframes`: Whimsical
 - `student-website`: HTML/CSS/PHP
+- `to-do-list`: HTML/SASS/React
 - `trip-time`: HTML/CSS/JS
 - `we-love-cheese`: HTML/CSS/JS
 - ... more coming soon ! ⭐️
